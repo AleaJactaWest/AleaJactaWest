@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AleaJactaWest
 - 👀 I’m interested in finance, economics and data science 
 - 🌱 I’m currently learning C# and JS
-// - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me A.rehioui.59@gmail.com
 
 <!---
